@@ -1,0 +1,1 @@
+An IMUL workspace consists of a set of Git accounts, either a person or organization account and all of the repositories contained in these repositories. Each GitHub account and Repo should have a unique key but in the case that they do not then the first GitHub account name sorted by GitHub account name shall be used, or the repo may be addressed by by GitHub account name.

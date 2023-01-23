@@ -1,0 +1,1 @@
+IMUL is case agnostic. UppercaseCamel, lowerCaseCame, UPPER_SNAKE_CASE, and lower_snake_case all refer to the same object.
